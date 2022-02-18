@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Mohanraj Chinnapaiyan is an Information Technology Professional, Machine Learning Enthusiast and a Data Science Blogger and Youtuber! **[MC, Data Scientist](https://github.com/fastai/fastpages)** [^1].
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]: An educational YouTube channel about Data Science
